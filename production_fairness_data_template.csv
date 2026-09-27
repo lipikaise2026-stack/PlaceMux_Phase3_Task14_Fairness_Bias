@@ -1,0 +1,2 @@
+date,user_id,group,eligible,positive_outcome,outcome_value,source_system
+YYYY-MM-DD,USER_ID,GROUP_LABEL,1,0_or_1,VALUE,SOURCE_SYSTEM

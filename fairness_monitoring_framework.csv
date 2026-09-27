@@ -1,0 +1,5 @@
+metric,frequency,trigger,action
+Outcome Rate by Group,Periodic production monitoring,Meaningful change from approved baseline,Investigate disparity and validate source data.
+Outcome Rate Ratio,Periodic production monitoring,Ratio moves outside approved monitoring threshold,Open fairness investigation.
+Absolute Outcome Gap,Periodic production monitoring,Gap exceeds approved threshold,"Review product, data and ranking behaviour."
+Data Completeness,Every monitoring cycle,Required group/outcome fields incomplete,Block interpretation until data quality is restored.

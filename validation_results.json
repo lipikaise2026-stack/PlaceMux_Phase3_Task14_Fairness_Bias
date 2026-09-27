@@ -1,0 +1,58 @@
+{
+  "status": "INCONCLUSIVE - PRODUCTION DATA REQUIRED",
+  "passed": 8,
+  "total": 12,
+  "ai_evaluation_confidence": 0.5,
+  "production_data_available": false,
+  "unsupported_production_claims": false,
+  "checks": [
+    {
+      "check": "Outcome-disparity framework defined",
+      "status": "PASS"
+    },
+    {
+      "check": "Fairness metrics defined",
+      "status": "PASS"
+    },
+    {
+      "check": "Relevant group methodology defined",
+      "status": "PASS"
+    },
+    {
+      "check": "Consent considerations documented",
+      "status": "PASS"
+    },
+    {
+      "check": "Proxy limitations documented",
+      "status": "PASS"
+    },
+    {
+      "check": "Uncertainty methodology defined",
+      "status": "PASS"
+    },
+    {
+      "check": "Continuous monitoring defined",
+      "status": "PASS"
+    },
+    {
+      "check": "Failure path prevents unsupported conclusions",
+      "status": "PASS"
+    },
+    {
+      "check": "Production fairness data supplied",
+      "status": "BLOCKED"
+    },
+    {
+      "check": "Production disparity analysis calculated",
+      "status": "BLOCKED"
+    },
+    {
+      "check": "Source-system reconciliation completed",
+      "status": "BLOCKED"
+    },
+    {
+      "check": "Live production fairness demonstration",
+      "status": "BLOCKED"
+    }
+  ]
+}
